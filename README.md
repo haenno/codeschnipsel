@@ -4,8 +4,8 @@ Hier finden sich einige (vorzeigbare 😉) Programmierbeispiele von mir aus vers
 
 * **Python IP Scanner und Webcrawler** (22.10.2020)  [github.com/haenno/pyIpScanAndWebCrawl](https://github.com/haenno/pyIpScanAndWebCrawl)
     Scannt IP Adressen zufälliger Subnetze auf aktive Webserver, sammelt Daten dazu und macht einen Screenshot der Webseite.
-    **Toolset**: Python 3, SQLite, Selenium, Sockets, Threading
-    ![Python Snake: Testlauf mit Größenänderung...](https://github.com/haenno/pyIpScanAndWebCrawl/raw/main/project_running.gif "Python Snake: Testlauf mit Größenänderung...")
+    **Toolset**: Python 3, SQLite, Selenium/Headless-Chrome, Sockets, Threading
+    ![Testlauf: Scanner, Headless-Chrome und Screenshots](https://github.com/haenno/pyIpScanAndWebCrawl/raw/main/project_running.gif "Testlauf: Scanner, Headless-Chrome und Screenshots")
 
 
 
