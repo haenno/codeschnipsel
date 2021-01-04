@@ -1,6 +1,6 @@
 # Codeschnipsel
 
-Hier finden sich einige (vorzeigbare 😉) Programmierbeispiele von mir aus verschiedensten Quellen:
+Hier finden sich einige mehr oder weniger vorzeigbare 😉 Programmierbeispiele von mir aus verschiedensten Quellen...
 
 
 
