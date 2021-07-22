@@ -4,6 +4,16 @@ Hier finden sich einige mehr oder weniger vorzeigbare 😉 Programmierbeispiele 
 
 
 
+* **Videostream with Pythom from a Raspberry PI Zero** (22.07.2021)  [github.com/haenno/bunnycam](https://github.com/haenno/bunnycam)
+
+    Scannt IP Adressen zufälliger Subnetze auf aktive Webserver, sammelt Daten dazu und macht einen Screenshot der Webseite.
+
+    **Toolset**: Python 3, Systemd, Raspberry PI Zero, DHT Sensor, Kamera Modul, Raspbian/Debian, ... 
+    ![Screenshot: Livestream mit Wetterdaten](https://github.com/haenno/bunnycam/raw/master/screenshot_browser.jpg "Screenshot: Livestream mit Wetterdaten")
+
+
+
+
 * **rC3 PixelCompetition / Pixelflut** (04.01.2021)  [github.com/haenno/rC3_PixelCompetition](https://github.com/haenno/rC3_PixelCompetition)
 
     Sammlung von Python-Scritps für den Programmierwettbewerb "Pixel-Flut" auf der rC3 (remote Chaos Communication Congress 2020). Spannende Aufgabe: Möglichst schnell TCP Pakete mit Bildinformationen auf den Weg bringen um ein Bild (in einem Youtube Live-Stream) zu zeichnen.
